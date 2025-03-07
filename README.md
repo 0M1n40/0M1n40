@@ -35,8 +35,6 @@
   <a href="https://www.linkedin.com/in/mina-monteiro/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-## 📊 Snake Game - Meus Commits
-
 ![Snake animation](https://github.com/0M1n40/0M1n40/blob/output/github-contribution-grid-snake.svg)
 
 
