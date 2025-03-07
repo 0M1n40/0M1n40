@@ -36,8 +36,7 @@
 </p>
 
 ## 📊 Snake Game - Meus Commits
-![Snake animation](https://github.com/0M1n40/0M1n40/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://github.com/0M1n40/blob/output/github-contribution-grid-snake.svg)
 
 
 
